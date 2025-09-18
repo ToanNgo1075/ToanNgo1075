@@ -12,7 +12,7 @@ Mình là một sinh viên ngành **Công nghệ thông tin** tại trường Ca
 
 ## 🎓 Trường Cao Thắng
 
-![Logo Cao Thắng](https://caothang.edu.vn/templates/images/logo.png))
+![Logo Cao Thắng](https://caothang.edu.vn/templates/images/logo.png)
 
 ---
 
