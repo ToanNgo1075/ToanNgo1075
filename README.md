@@ -1,12 +1,18 @@
-# 👋 Xin chào, mình là John Doe
+# 👋 Xin chào, mình là sinh viên Cao Thắng
 
-Mình là một **Lập trình viên phần mềm** đam mê chuyên về **Phát triển Frontend** và đóng góp cho **mã nguồn mở**. Mình yêu thích xây dựng các ứng dụng web đẹp mắt và hiệu suất cao!
+Mình là một sinh viên ngành **Công nghệ thông tin** tại trường Cao Thắng. Mình đang học tập và phát triển kỹ năng về lập trình và công nghệ phần mềm.
 
-- 🔭 Hiện tại mình đang làm việc với các dự án **ReactJS** và **Node.js**.
-- 🌱 Mình đang học thêm về **GraphQL** và **Docker**.
-- 👯 Mình muốn hợp tác cùng tham gia các dự án **Mã nguồn mở**.
-- 🤔 Mình sẵn sàng học hỏi thêm về **Điện toán đám mây** và **Trí tuệ nhân tạo (AI)**.
-- 📫 Liên hệ với mình tại đây: [email@example.com](mailto:email@example.com).
+- 🔭 Hiện tại mình đang học và thực hành các dự án về **Frontend với ReactJS** và **Backend với Node.js**.
+- 🌱 Mình đang tìm hiểu thêm về **GraphQL** và **Docker**.
+- 👯 Mình muốn hợp tác cùng các bạn trong các dự án **mã nguồn mở**.
+- 🤔 Mình cũng rất quan tâm đến các công nghệ mới như **Điện toán đám mây** và **Trí tuệ nhân tạo (AI)**.
+- 📫 Bạn có thể liên hệ với mình qua email: [email@example.com](mailto:email@example.com).
+
+---
+
+## 🎓 Trường Cao Thắng
+
+![Logo Cao Thắng](https://upload.wikimedia.org/wikipedia/vi/1/11/Logo_Dai_hoc_Cao_Thang.png)
 
 ---
 
@@ -21,30 +27,29 @@ Mình là một **Lập trình viên phần mềm** đam mê chuyên về **Phá
 
 ## 📊 Thống kê GitHub
 
-![Thống kê GitHub của John Doe](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical&count_private=true)
+![Thống kê GitHub của ToanNgo1075](https://github-readme-stats.vercel.app/api?username=ToanNgo1075&show_icons=true&theme=radical&count_private=true)
 
 ---
 
 ## 📈 Ngôn ngữ sử dụng nhiều nhất
 
-![Ngôn ngữ phổ biến](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&langs_count=5&layout=compact&theme=radical)
+![Ngôn ngữ phổ biến](https://github-readme-stats.vercel.app/api/top-langs/?username=ToanNgo1075&langs_count=5&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Kết nối với mình:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johndoe/)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/johndoe)  
-[![Website](https://img.shields.io/badge/Website-green?logo=google-chrome&logoColor=white)](https://johndoe.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ToanNgo1075)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/ToanNgo1075)  
+[![Website](https://img.shields.io/badge/Website-green?logo=google-chrome&logoColor=white)](https://toanngo1075.com)
 
 ---
 
 ## 😎 Một vài điều thú vị về mình
 
-- Mình có thể giải được **Rubik's Cube** trong chưa đầy 2 phút.
-- Mình là fan lớn của bộ phim **The Office** và thường xuyên trích dẫn nó trong cuộc sống.
-- Mình từng tự tay làm một trò chơi phiêu lưu dạng văn bản bằng Python chỉ để giải trí!
-- Mình luôn sẵn lòng giúp đỡ các bạn lập trình viên trong cộng đồng **mã nguồn mở**.
+- Mình đam mê học hỏi và phát triển kỹ năng lập trình từng ngày.
+- Mình luôn sẵn lòng giúp đỡ các bạn cùng học trong cộng đồng.
+- Mình thích tham gia các dự án mã nguồn mở để nâng cao kỹ năng và kinh nghiệm.
 
 ---
 
