@@ -12,7 +12,7 @@ Mình là một sinh viên ngành **Công nghệ thông tin** tại trường Ca
 
 ## 🎓 Trường Cao Thắng
 
-![Logo Cao Thắng]([https://upload.wikimedia.org/wikipedia/vi/1/11/Logo_Dai_hoc_Cao_Thang.png](https://cdn.haitrieu.com/wp-content/uploads/2023/01/Logo-Truong-Cao-dang-Ky-thuat-Cao-Thang.png))
+![Logo Cao Thắng]([https://upload.wikimedia.org/wikipedia/vi/1/11/Logo_Dai_hoc_Cao_Thang.png](https://cdn.haitrieu.com/wp-content/uploads/2023/01/Logo-Truong-Cao-dang-Ky-thuat-Cao-Thang.png)
 
 ---
 
